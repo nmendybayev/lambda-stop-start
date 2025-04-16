@@ -40,5 +40,3 @@ To allow the Lambda function to start and stop EC2 instances, you must attach an
 ```
 
 This policy grants the Lambda function permission to describe, start, and stop EC2 instances.
-
-To see other Lambda implementations please folow my Medium publications.
